@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "2hvkzsro6gtrEOdANI5Ey4VXAXnaxR1Q+F0/ZUex5Pd01lRlfatq3ajd3r4fCD+vtWQTfNYwUXjn2CWd1Qp0xw==",
+  "success": true,
+  "projectFilePath": "G:\\My Drive\\Systemutvecklare .Net\\7. Informationsarkitektur och databasutveckling\\Inlämningsuppgift 1\\Gruppuppgift 1\\csvToDb-master\\csvToDb\\csvToDb.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\paima\\.nuget\\packages\\litedb\\5.0.11\\litedb.5.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}
